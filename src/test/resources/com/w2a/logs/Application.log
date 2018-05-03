@@ -1,0 +1,11 @@
+02/05/2018 16:22:06 devpinoyLogger config file loaded
+02/05/2018 16:22:07 devpinoyLogger OR file loaded
+02/05/2018 16:22:22 devpinoyLogger Navigated to: http://www.Zoho.eu
+02/05/2018 16:22:25 devpinoyLogger Clicking on an element :loginlink_XPATH
+02/05/2018 16:22:26 devpinoyLogger Typing on an element :email_XPATHEntered valus as :vamshi4ru@yahoo.com
+02/05/2018 16:22:26 devpinoyLogger Typing on an element :password_XPATHEntered valus as :Softwaretesting01
+02/05/2018 16:22:26 devpinoyLogger Clicking on an element :signbtn_XPATH
+02/05/2018 16:22:47 devpinoyLogger Clicking on an element :crmlink_XPATH
+02/05/2018 16:22:47 devpinoyLogger Clicking on an element :accountstab_XPATH
+02/05/2018 16:22:48 devpinoyLogger Clicking on an element :createaccountbtn_XPATH
+02/05/2018 16:22:48 devpinoyLogger Typing on an element :accountname_IDEntered valus as :vamshi
