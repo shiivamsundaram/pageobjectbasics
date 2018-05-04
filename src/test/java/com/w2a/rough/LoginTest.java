@@ -17,7 +17,7 @@ import com.w2a.pages.crm.accounts.CreateAccountPage;
 public class LoginTest  {
 
 	public static void main(String[] args) {
-		
+		//Using Egit plugin
 		HomePage home=new HomePage();
 		LoginPage lp=home.goToLogin();
 		ZohoAppPage zp=lp.doLogin("vamshi4ru@yahoo.com", "Softwaretesting01");
